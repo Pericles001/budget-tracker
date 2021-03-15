@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "budget-tracker",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "simple react app that permits user to set and see they budget expensions",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@babel/runtime": "7.13.8",
